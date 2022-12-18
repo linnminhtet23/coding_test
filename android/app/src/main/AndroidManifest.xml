@@ -3,7 +3,7 @@
      <uses-permission android:name="android.permission.INTERNET" />
 
    <application
-        android:label="aceplus_codetest"
+        android:label="Aceplus Codetest"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
